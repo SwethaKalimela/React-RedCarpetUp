@@ -1,0 +1,14 @@
+.Blog {
+    border: 1px solid black;
+    width: 90%;
+    margin: 30px
+}
+
+.Blog p {
+    font-style: oblique;
+    text-align: justify;
+    padding: 3px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
