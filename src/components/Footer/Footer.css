@@ -1,0 +1,20 @@
+.footerStyles {
+    background-color: black;
+    color: white;
+    padding: 5%;
+}
+
+.footerStyles div {
+    margin: 2px;    
+}
+
+.footerStyles span {
+    color: blue;
+    font-size: 20px;
+    font-style: italic    
+}
+
+.title {
+    font-size: 32px;
+    padding: 10px;
+}

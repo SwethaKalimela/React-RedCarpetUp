@@ -1,0 +1,17 @@
+.headerStyle {
+    background-color: #00bfff
+}
+
+
+
+header ul {
+    display: inline-block;
+    list-style: none;
+}
+
+ul li {
+    cursor: pointer;
+    display: inline-block;
+    margin: 5px;
+    color: white
+}
